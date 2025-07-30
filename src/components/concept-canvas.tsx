@@ -423,7 +423,7 @@ export function ConceptCanvas() {
         onMobileToolboxOpenChange={setIsMobileToolboxOpen}
       />
 
-      <p className="absolute bottom-9 right-4 md:right-20 z-10 text-sm text-muted-foreground font-medium">@HalfPlateSahil</p>
+      <p className="absolute bottom-9 right-4 md:right-20 z-10 text-sm text-muted-foreground font-medium">@LuckySingh</p>
 
       <div
         className="w-full h-full cursor-grab active:cursor-grabbing canvas-bg"
